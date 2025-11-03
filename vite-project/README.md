@@ -66,11 +66,11 @@ npm run dev
 
 ## 📝 License
 
-MIT License - feel free to use this project for your portfolio!
+MIT License
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/juliancumps) - [LinkedIn](https://linkedin.com/in/julian-cumps)
+Julian - [GitHub](https://github.com/juliancumps) - [LinkedIn](https://linkedin.com/in/julian-cumps)
 
 ---
 
