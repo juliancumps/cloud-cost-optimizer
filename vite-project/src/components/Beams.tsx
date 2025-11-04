@@ -20,7 +20,7 @@ function extendMaterial(BaseMaterial: any, cfg: any) {
     fragmentShader: baseFrag,
     uniforms: baseUniforms,
   } = physical;
-  const baseDefines = physical.defines ?? {};
+  const baseDefines = (physical as any).defines ?? {};
 
   const uniforms = THREE.UniformsUtils.clone(baseUniforms);
   const defaults = new BaseMaterial(cfg.material || {});
