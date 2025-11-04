@@ -11,8 +11,15 @@
   },
   "dependencies": {
     "22": "^0.0.0",
+    "@react-three/drei": "^10.7.6",
+    "@react-three/fiber": "^9.4.0",
+    "axios": "^1.13.1",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.552.0",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "recharts": "^3.3.0",
+    "three": "^0.181.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
