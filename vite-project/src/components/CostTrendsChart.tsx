@@ -20,7 +20,7 @@ interface CostTrendsChartProps {
 
 export const CostTrendsChart = ({
   data,
-  height = 299,
+  height = 300,
 }: CostTrendsChartProps) => {
   // Format data for the chart
   const chartData = data.map((item) => ({
