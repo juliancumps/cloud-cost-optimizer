@@ -2,7 +2,7 @@
 
 An intelligent cloud infrastructure cost optimization platform with predictive analytics, anomaly detection, and automated savings recommendations.
 
-## 🚀 Features (In Progress)
+## Features (In Progress)
 
 - [ ] Real-time cost tracking across AWS/Azure/GCP
 - [ ] ML-powered cost forecasting and anomaly detection
@@ -23,7 +23,7 @@ An intelligent cloud infrastructure cost optimization platform with predictive a
 - Python FastAPI for ML services
 - PostgreSQL for data storage
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -64,14 +64,14 @@ npm run dev
 - [ ] Budget alerts
 - [ ] Multi-cloud support
 
-## 📝 License
+## License
 
 MIT License
 
-## 👤 Author
+## Author
 
 Julian - [GitHub](https://github.com/juliancumps) - [LinkedIn](https://linkedin.com/in/julian-cumps)
 
 ---
 
-**Status:** 🚧 In Active Development
+**Status:** In Dev
